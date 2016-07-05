@@ -10,6 +10,7 @@ namespace More_Effective_LINQ
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Rode os testes");
         }
     }
 }

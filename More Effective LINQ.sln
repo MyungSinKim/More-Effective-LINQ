@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "More Effective LINQ", "More Effective LINQ\More Effective LINQ.csproj", "{AD6E2716-70F7-4627-8885-3F76EAD445DD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "More Effective LINQ Test", "More Effective LINQ Test\More Effective LINQ Test.csproj", "{448F7EF7-3C6D-4AE3-8B05-B97FB6C35986}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{AD6E2716-70F7-4627-8885-3F76EAD445DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AD6E2716-70F7-4627-8885-3F76EAD445DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AD6E2716-70F7-4627-8885-3F76EAD445DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{448F7EF7-3C6D-4AE3-8B05-B97FB6C35986}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{448F7EF7-3C6D-4AE3-8B05-B97FB6C35986}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{448F7EF7-3C6D-4AE3-8B05-B97FB6C35986}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{448F7EF7-3C6D-4AE3-8B05-B97FB6C35986}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
